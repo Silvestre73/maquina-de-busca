@@ -1,0 +1,6 @@
+APLICAÇÕES DE MAPAS AUTO-ORGANIZÁVEIS EM MINERAÇÃO DE DADOS E RECUPERAÇÃO DE INFORMAÇÃO
+
+Márcio Henrique Zuchini
+
+Esta dissertação está voltada ao estudo de dois métodos para mineração de dados de alta dimensionalidade e em grande volume. O Mapa Auto-Organizável de Kohonen (SOM: Self-Organizing Maps) e o Mapeamento Topográfico Gerativo (GTM: Generative Topographic Mapping) são métodos já propostos na literatura e caracterizados pela aplicação de procedimentos avançados de visualização gráfica, recorrendo a técnicas distintas de redução de dimensionalidade com requisitos de preservação topológica. Considerando a aplicação dos dois métodos a vários conjuntos de dados, são apresentados resultados promissores, incluindo análise de sensibilidade à variação de parâmetros e proposição de
+refinamentos empíricos visando incremento de desempenho. Além do emprego de conjuntos de dados já prontos para serem processados, são considerados também textos em português, os quais precisam ser devidamente preparados para análise e requerem formas alternativas de definição do contexto.

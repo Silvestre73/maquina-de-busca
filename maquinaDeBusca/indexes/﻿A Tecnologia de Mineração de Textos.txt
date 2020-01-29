@@ -1,0 +1,13 @@
+﻿A Tecnologia de Mineração de Textos
+
+Christian Aranha, Emmanuel Passos
+
+Mineração de textos, também conhecido como mineração de dados textuais ou descoberta de conhecimento de bases de dados
+textuais, em geral, se refere ao processo de extração de informações de interesse e padrões não-triviais ou descoberta
+de conhecimento em documentos de texto não-estruturados. Pode ser visto como uma extensão da mineração de dados ou da
+descoberta de conhecimento em bases de dados estruturadas.
+Como muitas informações (mais de 80%) estão armazenadas em formato texto, acredita-se que as técnicas de mineração de
+textos possuam um grande valor comercial. O objetivo deste tutorial é apresentar algumas técnicas de mineração de textos,
+bem como casos de uso e resultados obtidos.
+
+Palavras chave: Mineração de textos, Sistemas de Informação Inteligentes, Mineração de dados

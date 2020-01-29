@@ -1,0 +1,15 @@
+Extração de Conhecimento e Análise Visual de Redes Sociais
+
+Carla M. D. S. Freitas, Luciana P. Nedel, Renata Galante, Luís C. Lamb, André S. Spritzer, Sérgio Fujii,
+José Palazzo M. de Oliveira,Ricardo M. Araújo, Mirella M. Moro
+
+UFRGS
+
+Uma rede social é um grafo onde pessoas ou organizações (dependendo da aplicação) são representadas por nodos conectados
+por arestas as quais podem corresponder tanto a fortes relacionamentos sociais como ao compartilhamento de alguma
+característica. A análise da estrutura desse grafo, assim como a análise estatística dos atributos dos nodos e/ou
+das arestas pode revelar indivíduos/organizações importantes, relacionamentos especiais e grupos. Enquanto novas
+informações continuam a ser coletadas e armazenadas, e o tamanho e a complexidade dos grafos semânticos sobrepujam
+a capacidade cognitiva humana, é necessário melhorar a habilidade de analisar tais volumes de dados. Este artigo
+focaliza a análise da informação presente nas redes sociais, a extração de conhecimento a partir de grafos e a
+visualização de fatos decorrentes dessa análise.

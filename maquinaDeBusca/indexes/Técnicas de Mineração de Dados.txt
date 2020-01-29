@@ -1,0 +1,6 @@
+Técnicas de Mineração de Dados
+
+Sandra de Amo
+
+Mineração de Dados é uma área de pesquisa multidisciplinar, incluindo tecnologia de bancos de dados, inteligência artifcial, aprendizado de máquina, redes neurais, estatística, reconhecimento de padrões, sistemas baseados em conhecimento, recuperação da informação, computação de alto desempenho e visualização de dados. Este curso é baseado em um perspectiva de banco de dados e é focalizado sobretudo sobre as técnicas para realizar uma grande variedade de tarefas de mineração. Apresentamos algoritmos, técnicas de otimização, importantes domínios de aplicação e também alguns aspectos teóricos da área
+que podem ajudar no desenvolvimento de algoritmos para novas tarefas de mineração.

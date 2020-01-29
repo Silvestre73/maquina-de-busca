@@ -1,0 +1,5 @@
+A análise de redes de colaboração científica sob as novas tecnologias de informação e comunicação: um estudo na Plataforma Lattes
+
+As redes de pesquisa impulsionam a criação do conhecimento e o processo de inovação resultantes do intercâmbio de informações e, sobretudo, da junção de competências de grupos que unem esforços na busca de metas comuns. Este artigo apresenta breve histórico dos estudos relativos às redes de colaboração científica, sua evolução cronológica e as principais abordagens de estudo. Discute-se particularmente como as análises de redes de pesquisa podem ser revisitadas à luz das possibilidades recentes surgidas com as novas Tecnologias de Informação e de Comunicação (TICs). Para tal, apresentam-se exemplos de sistemas de conhecimento no âmbito da Plataforma Lattes: Egressos, Colaboradores e Redes-GP. Esses sistemas permitem executar, com grandes volumes de dados, análises de redes por meio de algoritmos descritos na literatura, bem como criar novas formas de análise possibilitadas pelas TICs.
+
+Palavas-chave: Colaboração científica; Análise de redes sociais; Redes de pesquisa; tecnologias da Informação e da comuniacação.

@@ -1,0 +1,18 @@
+Parâmetros na escolha de técnicas e ferramentas de mineração de dados
+
+Maria Madalena Dias
+
+
+Universidade Estadual de Maringá
+
+Apesar da existência de técnicas e ferramentas de mineração de dados, muitas organizações ainda desconhecem o quanto o
+computador pode dar suporte à tomada de decisão. A pouca utilização dessas técnicas e ferramentas pode estar relacionada
+à dificuldade na escolha da técnica e/ou ferramenta de mineração de dados mais adequada ao tipo de aplicação. A escolha
+da técnica de mineração de dados depende do problema de negócio a ser solucionado e das características dos dados disponíveis
+para análise, enquanto que na escolha da ferramenta de mineração de dados deve-se levar em consideração vários parâmetros,
+tais como: características gerais da ferramenta, conexão a bancos de dados, critérios de desempenho computacional,
+critérios de funcionalidade, critérios de usabilidade, etc. Neste artigo são apresentados parâmetros a serem considerados
+na escolha da técnica e da ferramenta de mineração de dados, sugeridos por vários autores. Também são mostrados os
+resultados obtidos com a aplicação de duas técnicas de mineração de dados.
+
+Palavras-chave: técnicas de mineração de dados, ferramentas de mineração de dados.

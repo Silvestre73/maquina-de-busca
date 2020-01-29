@@ -1,0 +1,14 @@
+﻿Previsão de Estudantes com Risco de Evasão Utilizando Técnicas de Mineração de Dados
+
+Laci Mary Barbosa Manhães, Sérgio Manuel Serra da Cruz,
+Raimundo J. Macário Costa, Jorge Zavaleta, Geraldo Zimbrão
+
+UFRJ, UFRRJ
+
+As universidades enfrentam o desafio de reduzir os índices de evasão dos alunos nos cursos de graduação. O problema
+ocorre em diversas universidades brasileiras gerando prejuízos para o país, alunos e universidades. Neste sentido,
+nosso objetivo é identificar precocemente alunos em risco de evasão nos cursos de graduação. A técnica de mineração
+de dados oferece diversos algoritmos que podem ser empregados para identificar alunos em risco de abandono.
+Este trabalho apresenta um estudo utilizando dados acadêmicos de alunos de graduação de uma universidade brasileira UFRJ.
+Os resultados mostraram que utilizando as primeiras notas semestrais dos calouros é possível identificar com precisão de
+80% a situação final do aluno no curso.

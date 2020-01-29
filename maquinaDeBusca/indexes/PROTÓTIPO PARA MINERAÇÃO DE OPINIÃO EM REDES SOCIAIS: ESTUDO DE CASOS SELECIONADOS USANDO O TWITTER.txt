@@ -1,0 +1,18 @@
+PROTÓTIPO PARA MINERAÇÃO DE OPINIÃO EM REDES SOCIAIS: ESTUDO DE CASOS SELECIONADOS USANDO O TWITTER
+
+LEANDRO MATIOLI SANTOS
+
+UFLA
+
+Este trabalho teve como objetivo o desenvolvimento de um protótipo capaz de realizar mineração de opinião em textos de
+redes sociais, tendo como unidade-caso, o Twitter. Uma descrição detalhada dos conceitos associados ao campo de web mining
+e ao processo de mineração de textos foi apresentada, mostrando-se as técnicas atuais para a sua realização.
+Para a construção do protótipo, utilizou-se a linguagem Java, tendo o cuidado de realizar uma pequena modelagem UML do
+mesmo antes. O método de aprendizagem de máquina conhecido como SVM foi escolhido para realizar a classificação
+binária entre sentimentos positivos e negativos, que representa uma ação de mineração de opinião ou análise de sentimento.
+Para se representar os documentos de texto de maneira estruturada, optou-se pelo modelo conhecido como vetor de
+características, que é um abordagem estatística para análise de textos. Nos testes realizados, foi possível observar
+que o classificador treinado alcançou, em média, uma taxa de acerto de 80% nas classificações desejadas. Conclui-se
+que o sucesso foi obtido no protótipo criado, pois o mesmo foi capaz de realizar as tarefas requisitadas de maneira razoável.
+
+Palavras-chave: Mineração de opinião. Análise de sentimento. Web Mining. Aprendizagem de máquina. Classificação.

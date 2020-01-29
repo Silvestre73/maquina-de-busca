@@ -1,0 +1,23 @@
+VEDALOGIC UM MÉTODO DE VERIFICAÇÃO DE DADOS CLIMATOLÓGICOS APOIADO EM MODELOS MINERADOS
+
+HENRIQUE GONÇALVES SALVADOR, ADILSON MARQUES DA CUNHA e CLEBER SOUZA CORAÇÃO
+
+ITA-SP, ICEA-SP
+
+Neste artigo, apresenta-se um Método de Verificação de Dados Climatológicos Apoiado em Modelos
+Minerados  VEDALOGIC para o Instituto de Controle do Espaço Aéreo Brasileiro (ICEA). O
+VEDALOGIC consiste de uma verificação de dados, utilizando-se de modelos criados com algoritmos
+de Mineração de Dados. O Método utiliza modelos de clustering, gerados a partir de uma série histórica,
+que propiciam a identificação de grupos homogêneos em uma Base de Dados Climatológicos (BDC).
+A partir desses modelos, torna-se possível a detecção de inconformidades nos dados, denominadas
+pontos estranhos (outliers). Após a detecção de um outlier, este é classificado/predito, de acordo com
+o modelo de árvore de decisão, gerado também a partir de uma série histórica. O valor encontrado
+com base na árvore de decisão é adotado como sugestão para a correção do outlier, contribuindo com
+a consistência dos dados no BDC. Neste artigo, utilizam-se os seguintes algoritmos: Expectation-
+Maximization (EM) e K-means para clustering; e REPTree e M5P para classificação/predição. Para
+a verificação da eficiência do VEDALOGIC, inseriram-se, artificialmente, dados ruidosos em um
+conjunto de dados, os quais foram todos detectados pelo VEDALOGIC, que sugeriu valores para
+correção com uma precisão mádia superior a 98%.
+
+Palavras-Chaves: Mineração de Dados; Banco de Dados Climatológicos; Clustering; Verificação
+de Dados.

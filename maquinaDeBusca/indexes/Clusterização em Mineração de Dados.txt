@@ -1,0 +1,6 @@
+Clusterização em Mineração de Dados
+
+Luiz Satoru Ochi, Carlos Rodrigo Dias, Stênio S. Furtado Soares
+
+O objetivo deste trabalho, é apresentar uma contribuição na solução dos
+Problemas de Clusterização tratados na área de Mineração de Dados. Para tanto, apresentamos uma breve descrição do problema e posteriormente apresentamos algumas aplicações e técnicas eficientes para a sua solução aproximada. Em particular destacamos a classe de problemas de clusterização conhecida como Problema de Clusterização Automática e propostas de metodologias baseadas em conceitos de metaheurísticas evolutivas.

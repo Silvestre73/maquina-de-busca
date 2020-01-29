@@ -1,0 +1,26 @@
+Mineração de Dados aplicada à fisioterapia
+
+Deborah Ribeiro Carvalho , Auristela Duarte Moser
+Verônica Andrade da Silva , Marcelo Rosano Dallagassa
+
+UFRJ, PUCPR, UFJS
+
+Resumo
+Introdução: Com o aumento da quantidade de dados armazenados na prática da Fisioterapia e da área de saúde em geral,
+amplia-se, também, a possibilidade de obtenção de informações importantes no apoio ao processo decisório dos profissionais
+de saúde. Porém, muitas vezes, o volume de dados gerados é tão grande que dificulta sua utilização, demandando processos
+mais sofisticados para a manipulação de tais dados.
+Objetivo: Este artigo se propõe a apresentar e discutir o potencial de utilização do processo KDD sobre um conjunto de
+dados de acompanhamento fisioterapêutico de pacientes, bem como sua utilidade na tomada de decisões terapêuticas ou
+profiláticas. Metodologia: Selecionou-se um subconjunto de dados, referentes a prontuários disponíveis em uma clínica
+de fisioterapia, do qual foram extraídos três grandes grupos-alvo de tarefas de Mineração de Dados: associação,
+classificação e agrupamento, explicitados no texto. Resultados: Foram extraídos padrões a partir dos dados, de tal
+forma que se permitisse ao leitor entender passo a passo o processo, ampliando sua compreensão dos resultados obtidos.
+Foram descobertos padrões em diversos formatos, os quais evidenciaram as possíveis relações entre as variáveis disponíveis.
+Em seguida, não apenas os padrões foram discutidos, mas, também, a importância da qualidade dos dados coletados.
+Conclusões: As etapas de classificação, descoberta de regras de associação e agrupamento dos dados oportunizou melhor
+entendimento das especificidades de pacientes atendidos pela clínica em questão, ampliando, assim, o conhecimento do
+profissional na identificação das condutas a serem adotadas.
+
+Palavras-chave: Descoberta de conhecimento. Mineração de Dados.
+Acompanhamento de processos fisioterapêuticos. Apoio à decisão. Fisioterapia

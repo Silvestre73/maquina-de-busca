@@ -1,0 +1,9 @@
+Abordagem de um Problema Médico por meio do Processo de KDD com ênfase à Análise Exploratória dos Dados
+
+Maria Teresinha Arns Steiner, Nei Yoshihiro Soma, Tamio Shimizu, Júlio Cesar Nievola, Pedro José Steiner Neto
+
+A “Descoberta de Conhecimento em Bases de Dados” (Knowledge Discovery in Databases, KDD) é um processo composto de várias etapas, iniciando com a coleta de dados para o problema em pauta e finalizando com a interpreta-ção e avaliação dos resultados obtidos. O presente trabalho objetiva mostrar a influência da análise exploratória dos dados no desempenho das técnicas de Mineração de Dados (Data Mining) quanto à classificação de novos padrões por meio da sua aplicação a um problema médico, além de comparar o desempenho delas entre si, visando obter
+a técnica com o maior percentual de acertos. Pelos resultados obtidos, pode-se concluir que a referida análise, se conduzida de forma adequada, pode trazer importantes melhorias nos desempenhos de quase todas as técnicas abordadas, tornando-se, assim, uma importante ferramenta para a otimização dos resultados finais. Para o problema em
+estudo, a técnica que envolve um modelo de Programação Linear e uma outra que envolve Redes Neurais foram as técnicas que apresentaram os menores percentuais de erros para os conjuntos de testes, apresentando capacidades de generalização satisfatórias.
+
+Palavras-chave: mineração de dados, processo KDD, análise exploratória dos dados.

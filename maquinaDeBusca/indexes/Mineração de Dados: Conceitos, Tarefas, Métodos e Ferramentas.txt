@@ -1,0 +1,11 @@
+Mineração de Dados: Conceitos, Tarefas, Métodos e Ferramentas
+
+Cássio Oliveira Camilo, João Carlos da Silva
+
+UFG
+
+Neste trabalho serão apresentados os conceitos fundamentais da Mineração de Dados, principais tarefas e métodos. Além
+dos métodos tradicionais, algumas variantes e novas abordagens serão discutidas. Ao final será apresentada uma lista
+das principais ferramentas para se trabalhar com mineração.
+
+Palavras-Chave: Mineração de Dados, Tarefas, Métodos, Ferramentas.

@@ -1,0 +1,13 @@
+Explorando Redes Sociais Online: Da Coleta e Análise de Grandes Bases de Dados às Aplicações
+
+Fabrício Benevenuto, Jussara M. Almeida e Altigran S. Silva
+
+SBRC
+
+Redes sociais online têm se tornado extremamente populares, levando ao surgimento e à crescente popularização de uma
+nova onda de aplicações na Web. Associado a esse crescimento, redes sociais estão se tornando um tema central de
+pesquisas em diversas áreas da Ciência da Computação. Este mini-curso oferece uma introdução ao pesquisador que
+pretende explorar esse tema. Inicialmente, apresentamos as principais características das redes sociais mais populares
+atualmente. Em seguida, discutimos as principais métricas e análises utilizadas no estudo dos grafos que formam a
+topologia das redes sociais. Finalmente, sumarizamos as principais abordagens para coleta e tratamento de
+dados de redes sociais online e discutimos trabalhos recentes que ilustram o uso de tais técnicas.

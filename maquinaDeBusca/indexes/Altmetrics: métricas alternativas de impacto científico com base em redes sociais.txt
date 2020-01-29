@@ -1,0 +1,15 @@
+Altmetrics: métricas alternativas de impacto científico com base em redes sociais
+
+Moreno Barros
+
+UFRJ
+
+Métricas alternativas ou "altmetrics" podem ser definidas como o estudo e uso de medidas de impacto acadêmico com base
+na atividade de ferramentas e ambientes online. Altmetrics visam medir as diferentes formas e padrões de significado e
+uso dos produtos científicos, verificando não apenas a publicação em veículos tradicionais, mas também o processo mais
+amplo de disseminação em ambientes emergentes. Seu objetivo é atualizar o conceito de influência científica em um século
+caracterizado pela rápida disseminação de informações e adoção de mídias sociais em escala global. O presente
+trabalho apresenta as altmetrics e analisa sua aplicação para avaliar o impacto acadêmico.
+
+Palavras-chave: Almetrics; Webometria; Bibliometria;
+Fator de Impacto; Redes Sociais.
